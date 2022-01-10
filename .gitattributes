@@ -1,0 +1,5 @@
+icones/* -linguist-detectable
+js/bootstrap.min.js linguist-vendored
+js/jquery-3.6.0.min.js linguist-vendored
+styles/css/* -linguist-detectable
+styles/mincss/* -linguist-detectable
